@@ -1,5 +1,6 @@
 # Руслан Гладкий
 
+![my avatar] [avatar]
 
 * **Дата рождения:** 03.02.1993 года
 * **Возрост:** 23 года
@@ -18,3 +19,4 @@
 ### Профессиональные навыки:
 - CSS/CSS3, SASS, LESS, HTML/HTML5, WordPress, Bootstrap, JQuery, GIT, TortoiseGit
 
+[avatar]: https://github.com/RuslanGladkyy/resume/blob/master/img/Foto.jpg
